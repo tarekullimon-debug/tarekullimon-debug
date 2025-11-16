@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Md. Tarek Ul Islam Limon
+# 👋 Hi, I'm Md. Tarekul Islam Limon
 
 🎓 **CSE Student**  
 💻 **Learning Programming Step by Step**  
@@ -7,14 +7,14 @@
 ---
 
 ### 🧑‍💻 About Me
-- I am currently learning **C Programming & Python**
+- I am currently learning  **C Programming & Python**
 - I love **Problem Solving** and building simple projects
 - I dream to work in a **Big Tech Company** someday
 
 ---
 
 ### 🎯 My Goals
-- ✅ Learn C, Python & Data Structures
+- ✅ Learn C,C++, Python, Data Structures & Algorithm, System Design 
 - ✅ Practice Problem Solving daily
 - 🚀 Build Projects and share them here
 - 🏆 Become a **Software Engineer in a Big Tech Company**
