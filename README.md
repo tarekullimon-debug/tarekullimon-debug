@@ -7,7 +7,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- I am currently learning  **C Programming & Python**
+- I am currently learning  **C Programming expert ,c++ with dsa 
 - I love **Problem Solving** and building simple projects
 - I dream to work in a **Big Tech Company** someday
 
